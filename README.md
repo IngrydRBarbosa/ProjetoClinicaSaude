@@ -1,2 +1,4 @@
-# Projeto-Cl-nica-Sa-de-
-Iremos solucionar o problema da clínica
+# Integrantes
+Ingryd
+Pedro Terra
+Juliana
