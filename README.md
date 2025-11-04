@@ -1,4 +1,2 @@
 # Integrantes
-Ingryd
-Pedro Terra
-Juliana
+Ingryd, Pedro Terra, Juliana
