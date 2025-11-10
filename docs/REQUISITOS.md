@@ -47,10 +47,13 @@ minha agenda online para eu mesmo consultar do meu celular."
 4. O sistema deve solicitar e-mail e senha da recepcionista para efetuar o login.
 5. O sistema deverá solicitar login do médico com e-mail e senha.
 6. O sistema deve permitir acessos silmultâneos para controle da agenda pelo médico e recepcionista em tempo real.
+7. Sistema deve registrar o histórico dos pacientes
 
 ### Regras de negócios:
 1. O agendamento só pode ser confirmado pelos administradores (médico e recepcionista).
 2. Somente os administradores terão acesso aos agendamentos feitos e solicitados por todos os pacientes.
 3. O agendamento só deve ser solicitado e aprovado se o horário escolhido tiver disponível.
 4. A recepcionista deve configurar opções com os motivos do agendamento (consulta de rotina, procedimento x, primeira consulta, etc) e o tempo que deverá ser reservado para cada opção.
-5. A recepcionista deve cadastrar o valor de cada procedimento e tipo de consulta
+5. A recepcionista deve cadastrar o valor de cada procedimento e tipo de consulta.
+6. Somente os administradores terão acesso ao histórico de todos os pacientes.
+7. O paciente só poderá ter acesso ao próprio histórico.
