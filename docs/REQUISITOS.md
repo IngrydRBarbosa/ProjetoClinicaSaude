@@ -36,7 +36,7 @@ minha agenda online para eu mesmo consultar do meu celular."
 5. A recepcionista poderá agendar, cancelar, remarcar e consultar a agenda com as solicitações de agendamentos e os que já estão confirmados.
 6. O sistema deve solicitar aos administradores o preenchimento dos procedimentos e/ou tipo de consulta realizado para registro do valor cobrado.
 7. O sistema deverá calcular automaticamente a agenda do médico com base nas consultas agendadas.
-8. O sistema deve notificar o médico e a recepcionista quando chegar alguma solicitação de agendamento.
+8. O sistema deve notificar a recepcionista quando chegar alguma solicitação de agendamento.
 9. O sistema deverá notificar o paciente após o agendamento for confirmado.
 10. O sistema deve gerar um relatório mensal com o faturamento do consultório e estatística com o número de consultadas efetuadas e canceladas.
 
